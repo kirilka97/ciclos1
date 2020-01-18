@@ -5,10 +5,10 @@
 *Plan de estudios 13*
 >Ingeniería de sistemas
 
-##Hobbies:
--Series
--Peliculas
--Deportes
+## Hobbies:
+- Series
+- Peliculas
+- Deportes
 ##Comida favorita:
 1. Hamburguesa
 2. Pasta
