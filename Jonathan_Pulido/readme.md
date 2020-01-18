@@ -8,5 +8,5 @@
 
 
 ## *Hobbies*
-1.	! [Volleyball](https://nwscdn.com/media/wysiwyg/3kf/forza/FORZA_Size_5_competition_standard_volleyball_for_all_volleyball_tournaments_and_matches.jpg)
+1.	![Volleyball](https://nwscdn.com/media/wysiwyg/3kf/forza/FORZA_Size_5_competition_standard_volleyball_for_all_volleyball_tournaments_and_matches.jpg)
 2.	Basketball
