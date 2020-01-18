@@ -1,6 +1,6 @@
 #Informacion
 **Nombre:** Nicolas Ortega Limas\
-**Edad:** 20 \
+**Edad:** 20\
 ## Educacion
 *Plan de estudios 13*
 >Ingeniería de sistemas
