@@ -1,23 +1,20 @@
 package edu.eci.cvds.patterns.shapes;
+
+import edu.eci.cvds.patterns.shapes.concrete.*;
+
 public class ShapeFactory{
-	public static void main(String shape){
-		switch(shape){
-			case "Quadrilateral" :
-				RegularShapeType forma=RegularShapeType.Quadrilateral;
-				system.out.println(forma.getNumberOfEdges());
-				break;
-			/*case "Triangle":
-				new Triangle();
-				break;
-			case "Hexagon":
-				new Hexagon();
-				break;
-				
+	public static Shape create(RegularShapeType shape){
+		switch(shape.name()){
+			case "Triangle":
+				return new Triangle();
+			case "Quadrilateral":
+				return new Quadrilateral();
 			case "Pentagon":
-				new Pentagon();
-				break;*/
+				return new Pentagon();
+			case "Hexagon":
+				return new Hexagon();
 			default : System.out.println("Figura no renoconcida.");
-			break;
+			return null;
 		}
 	}
 }
